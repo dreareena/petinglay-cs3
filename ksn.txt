@@ -1,0 +1,16 @@
+<!DOCTYPE html> 
+
+<html>
+
+    <head> 
+    <title> bf </title>
+    </head>
+
+    <body> 
+        <h1> my bf </h1>
+        <a href = "KSN.JPEG" > Link to page 1 </a>
+        
+    </body>
+
+
+</html>
